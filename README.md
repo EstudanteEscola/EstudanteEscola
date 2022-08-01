@@ -1,4 +1,4 @@
-- 👋 Oi, meu n ome é Ana.
+- 👋 Oi, meu nome é Ana Luize.
 - 👀 Estou interessada em aprender.
 - 🌱 Já aprendi scrath e JavaScript
 
